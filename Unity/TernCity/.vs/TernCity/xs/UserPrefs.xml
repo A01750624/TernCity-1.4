@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{76EC0ED5-C616-3E2D-5DAE-8288B6EB6E41}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/City/CityManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/City/CityManager.cs" Line="21" Column="21" />
+      <File FileName="Assets/Scripts/Orders/Countdown.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Orders/DeliverTimeOutside.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Orders/OrderControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Orders/ButtonControl.cs" Line="104" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TernCity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="City" expanded="True">
+                  <Node name="CityManager.cs" selected="True" />
+                </Node>
+                <Node name="DBConnection" expanded="True" />
+                <Node name="Orders" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a147faf9-0fbe-49f8-8c3c-a4c8394f5924" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
